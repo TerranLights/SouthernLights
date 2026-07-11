@@ -1,8 +1,11 @@
-# Reference: Inner Tepenia GDD (shared-universe lore)
+# Reference: Shared Tepenia-Universe Lore
 
-Southern Lights is set in Tepenia, the same setting as the game *Inner Tepenia*. Full lore lives in that game's own repo — this doc is a pointer, plus a pull-out of the shared-universe facts most likely to matter for the show, not a copy of the source material. Treat the source repo as canon; update this doc if it drifts.
+Southern Lights is set in Tepenia, the same universe as the game *Inner Tepenia*, a planned "Cryptograph Helix" novel series, and a planned "Outer Tepenia" game trilogy. This doc is a pointer, plus a pull-out of the facts most likely to matter for the show, not a copy of the source material. Treat the source repos as canon; update this doc if it drifts.
 
-**Source repo:** https://github.com/TerranLights/InnerTepeniaGDD (~600MB, ~2,270 files — too large to copy in; treated as a live reference to pull from on demand, not a bulk import)
+**Two source repos now, not one — check dates, since content is actively migrating between them:**
+
+- **https://github.com/TerranLights/TepenianUniverseTimeline** (local clone: `Doll-Fi/media/Reference/TepenianUniverseTimeline`) — the **official cross-media canon/timeline repo**, shared across every property in the universe, not specific to the game. As of 2026-07-11, universe-level history/timeline content is being migrated *out* of InnerTepeniaGDD and *into* this repo — e.g. `InnerTepeniaGDD/Worldspace/World_History_Reference.md` is now just a pointer stub; the real content lives at `TepenianUniverseTimeline/Reference/World_History_Reference.md`. **Check here first for anything timeline/history-related.** Structure: four eras — First Interwar Period (2083–2564, no dedicated project yet), **Second Interwar Period (2564–2812, this show's basis)**, Solar Colonization (4th millennium, basis for the Cryptograph Helix novels), Post-Solar eras (basis for the Outer Tepenia game trilogy).
+- **https://github.com/TerranLights/InnerTepeniaGDD** (~600MB, ~2,270 files — too large to copy in) — still the primary source for game-specific material: characters, factions, district/city Megasheets, story content not yet migrated to the universe-timeline repo.
 
 **Scope:** everything in that repo is fair game for Southern Lights **except** the video-game-mechanics material, which doesn't apply to a TV show:
 - `Game-Mechanics/` (character creation, AP/combat system, perks, cyberware, stats)
@@ -34,7 +37,8 @@ Everything else — history, geography, characters, factions, religions, story m
 **Notable:** the source GDD already names this exact project — `Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/README.md` describes "a planned TV series spanning the entire Second Interwar Period," alongside a planned novel series and the game itself, all three meant to share lore rather than duplicate it.
 
 ### History & world logic
-- `Worldspace/World_History_Reference.md` — full timeline of confirmed world history (see pulled-out table below)
+- **`TepenianUniverseTimeline/Reference/World_History_Reference.md`** — full timeline of confirmed world history (moved here 2026-07-11; see pulled-out table below)
+- **`TepenianUniverseTimeline/Timeline Eras/2 The Second Interwar Period/Timeline.md`** — the authoritative version of the beat sheet [`Storyline/Timeline.md`](../Storyline/Timeline.md) is built from; re-check this before treating our own Timeline.md as fully current
 - `General-Overview-Notes/broad_overview_summary.md` — one-paragraph setting summary
 - `Worldspace/Design_Principles.md`, `Worldspace/City_Logistics.md`, `Worldspace/National_Economy_and_Currency.md`, `Worldspace/Energy_Grid_Failure_Rationale.md`, `Worldspace/Enneagram_Dynamics.md`
 - `Theoretical-Calculations/` — hard-science justification for Tepenian infrastructure (Amundsen Tower/space elevator design, orbital infrastructure, Von Braun wheel mass budgets)
@@ -98,4 +102,4 @@ The source lore is under active development — some things flagged TBD there (S
 
 ## Southern Lights' own place in this timeline
 
-*TBD — where/when the show sits relative to the above (which city, what era, how much of this history its characters would even know) still needs to be worked out.*
+Decided — see [`Storyline/Timeline.md`](../Storyline/Timeline.md) for the full picture: the show *is* the Second Interwar Period, start to finish (2564 landing through the 2812 war), robot-anchored ensemble cast, final season depicts the war on-screen.
