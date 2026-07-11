@@ -70,9 +70,15 @@ The source file has placement *spans* (percentages of the era) for these beats b
 
 ---
 
+## Confirmed: the final season depicts the Long Night War itself
+
+Per `Worldspace/Weapons_and_Tools_Philosophy.md` (added to the source GDD 2026-07-11, written directly for the show — see [`Weapons-and-Tools-Philosophy.md`](Weapons-and-Tools-Philosophy.md)): **the war (2812, this timeline's END/Closing Image) is depicted on-screen within the show's own final season**, not left offscreen or handed off entirely to the game. Earlier seasons are built as table-setting for this ending specifically — objects/tools established in mundane civilian use early on are meant to resurface weaponized in the final season, then recognizable a third time, generations later, in the game itself.
+
 ## Open structural questions for next session
 
 - Which named characters from the existing roster get promoted to real POV weight, and which stay background/texture? (Ensemble scale is decided — large, GoT-style — but the actual cut list isn't.)
+- How many episodes the final season's war depiction gets, and whether the peacetime-to-wartime tool transition is gradual across the season or a single sharp break (the Palmer City killing, ~2762, is a candidate trigger — though that's ~50 years before 2812 itself, so likely marks escalation's start rather than the season's own opening).
+- What Tepenia's actual outward-facing defensive/military structure looks like — unresolved even in the source, and the show's final season needs one.
 - Do any Southern Lights characters cross over with named Inner Tepenia figures/events (Ji-Eun Kim, Calethina, Maggie Aarden, the gynoid from the Palmer City killing) or does the show stay in its own corner of the timeline?
 - Which landing site and which city does the cast call home before the trek to Concordia? (The Palmer City killing at ~80% and its ~50-year Finale fallout are strong candidates for where the back half of the show is set.)
 - How many seasons, and how do they map onto the beat sheet above — is the ~74-year Road of Trials stretch (2614–2688) one season, several, or compressed?

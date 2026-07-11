@@ -20,6 +20,7 @@ Everything else — history, geography, characters, factions, religions, story m
 - [`Storyline/The-Falkland-Treaty.md`](../Storyline/The-Falkland-Treaty.md) — the opening event: real-world treaty precedents, the Maggie Aarden coerced-signature thread, the Great Corruption mystery
 - [`Storyline/The-Amundsen-Tower.md`](../Storyline/The-Amundsen-Tower.md) — the Tower's engineering, construction era, and destruction; Kendra Heinrich's last stand
 - [`Storyline/Writers-Room-Hooks.md`](../Storyline/Writers-Room-Hooks.md) — the strongest dramatic material pulled together across the whole survey, ranked by usability
+- [`Storyline/Weapons-and-Tools-Philosophy.md`](../Storyline/Weapons-and-Tools-Philosophy.md) — written directly for the show by the source project (2026-07-11): tools in civilian identity vs. their game-era weaponized form, and confirmation that **the final season depicts the Long Night War on-screen**
 
 **Worldspace:**
 - [`Worldspace/Characters.md`](../Worldspace/Characters.md) — full-span robots, war-era figures, pre-Treaty founding-myth Dolls, human dynasties
@@ -27,6 +28,8 @@ Everything else — history, geography, characters, factions, religions, story m
 - [`Worldspace/Locations.md`](../Worldspace/Locations.md) — the Falkland Treaty's internal structure, all ~35 Federation cities and their fates, Concordia's 13 districts, Upper Earth & orbital infrastructure
 - [`Worldspace/Robot-Biology-and-Culture.md`](../Worldspace/Robot-Biology-and-Culture.md) — how an ageless robot cast actually works: lifespan, death, the iris emotion-tell, siligel/coolant/smoking culture
 - [`Worldspace/Core-Systems.md`](../Worldspace/Core-Systems.md) — the grid/currency/city-logistics systems tying the war's ending together, plus the Enneagram character framework and the unmarked-discovery design principle
+- [`Worldspace/Environments-Concordia-Districts.md`](../Worldspace/Environments-Concordia-Districts.md) — deep environment/daily-life/culture reference for all 13 Concordia districts, for scene and set planning
+- [`Worldspace/Environments-Federation-Cities.md`](../Worldspace/Environments-Federation-Cities.md) — the same, for all ~35 Federation cities across five subnets (Concordia's own subnet is covered by the districts doc above)
 
 **Notable:** the source GDD already names this exact project — `Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/README.md` describes "a planned TV series spanning the entire Second Interwar Period," alongside a planned novel series and the game itself, all three meant to share lore rather than duplicate it.
 
