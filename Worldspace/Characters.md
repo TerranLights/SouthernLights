@@ -64,8 +64,8 @@ Gynoid with a severe fear of heights, and a greater fear of human violence — t
 **Majyao Bisyugota** — Taurus (teahouse keeper) · 4w5 Self-Preservational — **[SIP 2812]**
 From Janbogo; owned a famous teahouse there sourcing exotic/smuggled teas, including "Blood River Tea" from near Blood Falls. Deliberately chose not to flee to Amundsen Tower — stayed and rebuilt in Concordia; the war permanently cut her tea supply line. Teahouse functions as neutral ground across factions.
 
-**Salagéa Aparast** — Cancer · 1w2 Social — **[SIP 2812]**
-Tepenia native from Belgrano. Lives alone on a self-sailed boat retrieving datashards from the pre-war Upper Earth internet for Arcanet archiving. Deliberately chose not to flee via Amundsen Tower — stayed to keep cataloguing knowledge for escaped Tepenians. Personally knew Griselda Alejandra Chávez pre-war (Griselda evacuated early — off-screen relationship). Possesses non-public knowledge of the 2813 Overcrowding Decision.
+**Salagéa Aparast** — Halley Subnet, Atlantic coast near Belgrano · 1w2 Social — **[SIP 2564–2812]**
+**Corrected 2026-07-11 — not settled in Cancer/Concordia; an earlier draft of this doc had that wrong.** Tepenia native from Belgrano. Lives alone on a self-sailed boat working the Atlantic coastal region, an itinerant courier rather than a fixture of any settled community — she does not appear in Concordia. Retrieves datashards from the pre-war Upper Earth internet and delivers them throughout Tepenia for Arcanet archiving, evading Upper Earth hostility. During the Long Night War, deliberately chose not to flee via Amundsen Tower — stayed to keep cataloguing and delivering knowledge to those still on the surface. Personally knew Griselda Alejandra Chávez pre-war in Belgrano (Griselda evacuated early — off-screen relationship). Belgrano itself survived the war intact and declined afterward; Salagéa's disciplined, purposeful courier work reads as a direct expression of that city's founding Air Force ethos, even living apart from it. (Her prior connection to Cancer's 2813 Overcrowding Decision has been retracted — no such link is confirmed.)
 
 ## Pre-Treaty figures — founding-myth material, mostly undeveloped past 2564
 
@@ -82,8 +82,8 @@ Active career placed closer to the mid-2300s — oversaw the actual first launch
 
 ## Other still-present Dolls — thinner or purely present-day material
 
-**Calethina** — archive-AI, not a physical Doll (holographic projection from a wrist-device server) — **[SIP pre-2812–present]**
-Has been present since the war and helped coordinate the Amundsen Tower evacuation; largely isolated in her lab since. Server redundancy destroyed in the war — her defining trauma, reducing her from RAID-distributed to a single non-redundant instance. Degrading holograph shows periodic glitches/echoes of older versions of herself.
+**Calethina** — archive-AI, not a physical Doll (holographic projection, based at Concordia's Engineering & Activation Lab) — **[SIP pre-2812–present]**
+Has been present since the war and helped coordinate the Amundsen Tower evacuation; largely isolated in her lab since. Server redundancy destroyed in the war — her defining trauma, reducing her from RAID-distributed to a single non-redundant instance. Degrading holograph shows periodic glitches/echoes of older versions of herself. **Flagged 2026-07-11: this entire backstory is provisional, not confirmed canon** — its sole source is a single questline document explicitly marked "DEFERRED — Review Required" and drafted by an AI tool, not yet reviewed by the setting's creator. Of every character in the shared universe repo, Calethina is flagged as most urgently needing a real backstory session — treat her as a strong direction, not settled fact, until that happens.
 
 **Ayako Hayashi** — medic, Red Spiral, Cancer · 4w5 Self-Preservational — **[SIP 2564–2812]**
 Activated in Japan; exiled 2564. Pre-exile: artist/fashion figure, severe depression, found escape in Schopenhauer's aesthetic philosophy. In the Tepenia years, the human man she loved died in an accident she witnessed and couldn't prevent — reshaped her into a medic. Lost many close friends in the Long Night War; settled in Concordia.
