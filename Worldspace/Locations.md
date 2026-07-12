@@ -2,6 +2,8 @@
 
 Source: `Worldspace/Locations-and-Levels/` in the InnerTepeniaGDD repo. Compiled 2026-07-10. Tags as in [`Characters.md`](Characters.md). For the Falkland Treaty's real-world treaty models and the Maggie Aarden/Great Corruption threads, see [`../Storyline/The-Falkland-Treaty.md`](../Storyline/The-Falkland-Treaty.md) — this doc covers the Treaty's *internal legal structure* only, to avoid duplicating that material.
 
+> **⚠ Flagged 2026-07-12:** a handful of entries below (e.g. Belgrano, Lazar, Shirayuki) touch on founding-nation demographics. Per the new "No National Stereotypes" universe rule (see the flag in [`Environments-Federation-Cities.md`](Environments-Federation-Cities.md) for full detail), a founding nation must stay a bare GPS/demographic fact, never an explanation for culture or decisions. These entries read closer to bare-fact than the Environments doc's violations, but worth a second look once the source repo's own city Megasheets get corrected.
+
 ## The Falkland Treaty's internal structure (2564-06-21)
 
 **[SIP 2564 — first full draft only, dated 2026-07-08, "not locked canon"]** Deliberately written as a victor's settlement imposed on a defeated, exiled population, genre-modeled on the Treaty of New Echota (1835) — a preamble that never states extermination was the alternative, instead framing exile as something "sought and been granted." Preamble + seven Titles:

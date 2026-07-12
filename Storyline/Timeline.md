@@ -22,7 +22,7 @@ Everything in the table and beats below is pulled from that source file (as of i
 |---|---|---|
 | 2564-06-21 | Falkland Treaty signed; War of Upper Earth ends; exile to Antarctica begins | Opening Image (0%) |
 | ~2761 | **The Merit Board Audit** (Capricorn district) — an independent review finds Capricorn's merit system has systematically undervalued robot workers vs. humans for decades; leadership disputes it, makes token fixes, buries the findings. **Tentative — you're not sure yet whether to keep this one; don't build further on it until confirmed.** | ~79.2%, Dark Night of the Soul |
-| ~2762 | **Break into Three / the Long Night War's inciting incident** — an Upper Earth diplomat denies a gynoid's personhood, attempts assault on her in Palmer City; she kills him in self-defense (her name/fate and his identity still TBD in source) | ~80%, "Doorway of No Return #2" |
+| ~2762 | **Break into Three / the Long Night War's inciting incident** — an Upper Earth diplomat denies a gynoid's personhood, attempts assault on her in Palmer City; she kills him in self-defense. **The gynoid is confirmed (2026-07-12) as Akina (SE-031)** — see [`../Worldspace/Characters.md`](../Worldspace/Characters.md); the diplomat remains unnamed | ~80%, "Doorway of No Return #2" |
 | ~2771 | **The Flood** (Pisces district) — an experimental neural interface mod malfunctions, causing involuntary memory-sharing among Pisces residents; transcendence to some, trauma to others | ~83.3%, Finale |
 | 2812 (day TBD, window Mar 22–Jun 20) | **The Long Night War** — Amundsen Tower destroyed, continent-wide grid overload, likely origin of the Planetary Split Brain, several cities destroyed outright (Zukelli, Belgrano's later ruin, Denison, Palmer City, Casey) | END (100%) |
 
@@ -81,6 +81,6 @@ Per `Worldspace/Weapons_and_Tools_Philosophy.md` (added to the source GDD 2026-0
 - Which named characters from the existing roster get promoted to real POV weight, and which stay background/texture? (Ensemble scale is decided — large, GoT-style — but the actual cut list isn't.)
 - How many episodes the final season's war depiction gets, and whether the peacetime-to-wartime tool transition is gradual across the season or a single sharp break (the Palmer City killing, ~2762, is a candidate trigger — though that's ~50 years before 2812 itself, so likely marks escalation's start rather than the season's own opening).
 - What Tepenia's actual outward-facing defensive/military structure looks like — unresolved even in the source, and the show's final season needs one.
-- Do any Southern Lights characters cross over with named Inner Tepenia figures/events (Ji-Eun Kim, Calethina, Maggie Aarden, the gynoid from the Palmer City killing) or does the show stay in its own corner of the timeline?
+- Do any Southern Lights characters cross over with named Inner Tepenia figures/events (Ji-Eun Kim, Calethina, Maggie Aarden, Akina/the Palmer City killing) or does the show stay in its own corner of the timeline?
 - Which landing site and which city does the cast call home before the trek to Concordia? (The Palmer City killing at ~80% and its ~50-year Finale fallout are strong candidates for where the back half of the show is set.)
 - How many seasons, and how do they map onto the beat sheet above — is the ~74-year Road of Trials stretch (2614–2688) one season, several, or compressed?
