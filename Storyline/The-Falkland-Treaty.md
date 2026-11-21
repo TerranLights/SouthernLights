@@ -1,4 +1,6 @@
-# The Falkland Treaty (2564-06-21) — Southern Lights' Opening Event
+# The Falkland Treaty (2564-06-21) — Background to Southern Lights
+
+> **Author, 2026-11-21:** Maggie Aarden's coerced signing of the Falkland Treaty takes place close to the very end of *The Saga of Maggie Aarden* (the book series), not in Southern Lights. **Southern Lights opens with the exiles stepping onto the shores of Antarctica.** What follows about the signing is background the show inherits.
 
 Source: InnerTepeniaGDD `World_History_Reference.md`, `Main-Story/Main_Quest_Reassessment_2026-07-10.md`, `Storyline/DLC_Overview.md`, `Reference/Materials/Treaties/`, `to-be-integrated/treaties/`, `Storyline/Side-Content/District_Internal_Conflict_Quests.md`, `to-be-integrated/miscellaneous/Character_Concept_Bank.md`.
 
@@ -35,15 +37,15 @@ From `Main-Story/Main_Quest_Reassessment_2026-07-10.md`: **"the actual root [of 
 
 Cross-referenced against `Storyline/DLC_Overview.md`: Maggie Aarden is a confirmed robot, DLC2's canonical recruitable/romanceable companion, who settled permanently in **Byrd** — one of only two cities besides Concordia to survive the Long Night War. **Her role as the Treaty's robot signatory is confirmed canon** (locked 2026-07-09, synced across the source repos 2026-07-11) — no longer an open "swappable" placeholder.
 
-Put together: an ageless robot, coerced into signing the document that founded her own nation under duress, who then lived out the following ~250 years in one of the few cities to survive what came after — and nobody in the game's present knows the coercion happened. This is close to a ready-made Southern Lights POV-anchor: she spans the entire 2564–2812 span by construction, and while her identity as signatory is now locked, the source GDD hasn't written her actual story beyond that fact, leaving real room for Southern Lights to originate it (subject to staying reconcilable with the game if the developer wants that).
+Put together: a long-lived robot, coerced into signing the document that founded her own nation under duress (as told near the end of *The Saga of Maggie Aarden*), who then lived out the following ~250 years in one of the few cities to survive what came after — and nobody in the game's present knows the coercion happened. This is close to a ready-made Southern Lights POV-anchor: she spans the entire 2564–2812 span by construction, and while her identity as signatory is now locked, the source GDD hasn't written her actual story beyond that fact, leaving real room for Southern Lights to originate it (subject to staying reconcilable with the game if the developer wants that).
 
 ## The Great Corruption — a live, unsolved mystery sitting right at the opening
 
 From `Storyline/Side-Content/District_Internal_Conflict_Quests.md` (Gemini district's "The Speed of Truth" quest) and `to-be-integrated/miscellaneous/Character_Concept_Bank.md`: **the Great Corruption** is the mass deletion of Janbogo's pre-Falkland-Treaty archives. Specific records were deleted **in a specific order, in the hours before the Treaty was signed** — evidence suggests this was targeted, not accidental, and what survives implies **the Treaty was negotiated under false pretenses**. A faction called **The Long Frequency** (specifically its "Recovery wing") is still investigating this in the game's present, ~250 years later, and hasn't solved it.
 
-This is a live mystery in the shared universe with no answer yet written anywhere. Southern Lights, opening at the moment of the Treaty's signing, is positioned to actually dramatize what was being erased and why — effectively originating the answer to a mystery the game itself has left open.
+This is a live mystery in the shared universe with no answer yet written anywhere. The deletion happens in the hours before the signing, so before Southern Lights opens (the signing belongs to *The Saga of Maggie Aarden*); the show inherits the mystery, and what was erased and why is still unwritten.
 
 ## Status: tentative vs. confirmed, for this doc
 
-- **Confirmed, safe to build on:** the date (2564-06-21), the exile mechanism (blanket for robots, elective-forfeiture for humans), the "terms of defeat" framing, the Archive Vaults/Veilkeepers/Treaty Scholars as in-world present-day echoes, and (as of 2026-07-09) Maggie Aarden as the robot signatory.
+- **Confirmed, safe to build on:** the date (2564-06-21), the exile mechanism (blanket for robots, elective-forfeiture for humans), the "terms of defeat" framing, the Archive Vaults/Veilkeepers/Treaty Scholars as in-world present-day echoes, and (as of 2026-07-09) Maggie Aarden as the robot signatory (her signing is told in *The Saga of Maggie Aarden*).
 - **Tentative, explicitly open in source canon:** the full Treaty text (not yet drafted anywhere), what the Great Corruption actually erased and why.
