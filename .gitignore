@@ -1,0 +1,10 @@
+# Scripts are never tracked (copyright: the author keeps them off GitHub so nobody can take the work).
+# Put scripts in a folder named Scripts (anywhere in the repo), or give them one of these file types.
+Scripts/
+scripts/
+*.script.md
+*.fountain
+*.fdx
+*.fadein
+*.celtx
+*.highland
